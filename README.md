@@ -43,6 +43,7 @@ Install dependencies with:
 
 ```bash
 pip install pygame numpy matplotlib
+```
 
 ## 🕹️ Controls
 
