@@ -43,3 +43,11 @@ Install dependencies with:
 
 ```bash
 pip install pygame numpy matplotlib
+
+## 🕹️ Controls
+
+| Action                  | Input            |
+|-------------------------|------------------|
+| Add dye & velocity      | Left mouse drag  |
+| Exit simulation         | Close window     |
+
