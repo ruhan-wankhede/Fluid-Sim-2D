@@ -19,7 +19,7 @@ by Jos Stam
 This implementation was inspired by these excellent visual and educational resources:
 
 - 🌊 **The Coding Train - Fluid Simulation**  
-  [Watch here]([https://www.youtube.com/watch?v=1-1dZg0YqKI](https://www.youtube.com/watch?v=alhpH6ECFvQ&ab)
+  [Watch here]((https://www.youtube.com/watch?v=alhpH6ECFvQ&ab))
 
 ---
 
