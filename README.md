@@ -52,3 +52,8 @@ pip install pygame numpy matplotlib
 | Add dye & velocity      | Left mouse drag  |
 | Exit simulation         | Close window     |
 
+## 🌀 Demo
+
+![Fluid Simulation Demo](fluid_sim.gif)
+
+
