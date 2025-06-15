@@ -210,9 +210,6 @@ def simulate():
 
 
 if __name__ == '__main__':
-    import imageio
-    import pygame.surfarray
-
     simulate()
 
 
