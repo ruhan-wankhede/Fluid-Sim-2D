@@ -9,7 +9,7 @@ This project is a real-time 2D fluid simulation implemented in **Python** using 
 This simulation is based on the semi-Lagrangian method described in the paper:
 
 **Real-Time Fluid Dynamics for Games**  
-by Jos Stam  
+  by Jos Stam  
 📄 [Read the paper here (PDF)](https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf)
 
 ---
@@ -37,7 +37,7 @@ This implementation was inspired by these excellent visual and educational resou
 - Python 3.7+
 - Pygame
 - NumPy
-- (Optional) Matplotlib for advanced coloring
+- Matplotlib for advanced coloring
 
 Install dependencies with:
 
